@@ -1,6 +1,6 @@
 # Hi, I'm Samantha👋
 
-Welcome to my GitHub profile! I’m a  senior at Southern Illinois University Edwardsville majoring in Mass Communications major with an emphasis in **Advertising and Strategic Media** and a minoring in **Anthropology**. My academic focus combines creativity, storytelling, and cultural awareness to better understand how media shapes and reflects society. This semester I’m working on projects in R/RStudio and documenting progress in my weekly journal.  
+Welcome to my GitHub profile! I’m a  senior at Southern Illinois University Edwardsville majoring in Mass Communications with an emphasis in **Advertising and Strategic Media**, and minoring in **Anthropology**. My academic focus combines creativity, storytelling, and cultural awareness to better understand how media shapes and reflects society. This semester I’m working on projects in R/RStudio and documenting progress in my weekly journal.  
 
 ## What I’m learning this term
 - R, RStudio, and Quarto for data analysis & reporting
