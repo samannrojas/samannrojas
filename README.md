@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I’m a  senior at Southern Illinois University Ed
 - Research methods and reproducible workflows
 
 ## Find me
-- Email: [samroja@siue.edu](#)
-- LinkedIn: [https://www.linkedin.com/in/samantha-rojas-772995296/](#)
+- Email: [samroja@siue.edu]
+- LinkedIn: [https://www.linkedin.com/in/samantha-rojas-772995296/]
 
 ## Current tools
 - **Languages:** R, Markdown
